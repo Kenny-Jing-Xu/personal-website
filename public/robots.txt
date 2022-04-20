@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kenny-jing-xu.github.io/sitemap.xml
