@@ -18,9 +18,9 @@ interests:
 - Micro-randomized trial design for just-in-time adaptive intervention of mobile health studies
 - Applied statistics in medical research 
 organizations:
-- name: Duke-NUS Medical School, Singapore
-  url: https://www.duke-nus.edu.sg
-role:  Research Assistant Professor of Biostatistics
+#- name: Duke-NUS Medical School, Singapore
+#  url: https://www.duke-nus.edu.sg
+#role:  Research Assistant Professor of Biostatistics
 social:
 #- icon: envelope
  # icon_pack: fas

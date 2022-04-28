@@ -1,9 +1,9 @@
 ---
 date: "2022-04-27T00:00:00Z"
 #Link: 
-#image:
-#  caption: Photo by Toa Heftiba on Unsplash
-#  focal_point: Smart
+image:
+  caption: Microrandomized trial design of the StayWell at Home study
+  focal_point: Smart
 summary: "Stay Well at Home: a Text-messaging Study Social Distancing" 
 #tags:
 #- Demo
