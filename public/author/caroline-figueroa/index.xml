@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caroline Figueroa | Jing Xu</title>
+    <link>https://kenny-jing-xu.github.io/author/caroline-figueroa/</link>
+      <atom:link href="https://kenny-jing-xu.github.io/author/caroline-figueroa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caroline Figueroa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 14:27:26 +0000</lastBuildDate>
+    <image>
+      <url>https://kenny-jing-xu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Caroline Figueroa</title>
+      <link>https://kenny-jing-xu.github.io/author/caroline-figueroa/</link>
+    </image>
+    
+    <item>
+      <title>Micro-Randomized Trial with Flexible Design and Sample Size Considerations</title>
+      <link>https://kenny-jing-xu.github.io/publication/fleximrt/</link>
+      <pubDate>Thu, 17 Mar 2022 14:27:26 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/fleximrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daily Motivational Text-messages to Promote Physical Activity in University Students: Results from a Micro-Randomized Trial</title>
+      <link>https://kenny-jing-xu.github.io/publication/diamante-student/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/diamante-student/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

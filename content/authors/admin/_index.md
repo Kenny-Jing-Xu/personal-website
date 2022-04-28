@@ -1,52 +1,59 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research focus is on developing the novel statistical methodologies, in both experimental design and data analaysis, which can be applied to mobile health studies.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Statistics
+    institution: Macquarie University, Australia
+    year: 2014
+  - course: BSc in Statistics (Hon)
+    institution: Macquarie University, Australia
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Actuarial Part I exemption 
+    institution: Actuaries Institute, Australia
+    year: 2009
+email: "kenny.xu@duke-nus.edu.sg"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Survival analysis
+- Micro-randomized trial design for just-in-time adaptive intervention of mobile health studies
+- Applied statistics in medical research 
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Duke-NUS Medical School, Singapore
+  url: https://www.duke-nus.edu.sg
+role:  Research Assistant Professor of Biostatistics
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: envelope
+ # icon_pack: fas
+  #link: /#contact
+#- display:
+  #  header: true
+  #icon: twitter
+  #icon_pack: fab
+  #label: Follow me on Twitter
+  #link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Kenny-Jing-Xu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kenny-xu-92723748/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Jing Xu 
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Research Assistant Professor of Biostatistics at the [Center for Quantitative Medicine, Duke-NUS Medical School, Singapore](https://www.duke-nus.edu.sg/cqm). Here, I am mentored by Associate Professor [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/). We propose a flexible version of micro-randomized trial design, which can be used to optimize the just-in-time adaptive interventions for the mobile health research projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to joining Duke-NUS,  I was an Assistant Professor at [Data Science Programme, Division of Science and Technology, Beijing Normal University-Hong Kong Baptist University United International college, Zhuhai, Guangdong, China](https://dst.uic.edu.cn/ds/). I had experienced as a Biostatician to support, proteomics and cancer studies at [Children Medical Research Institute, Westmead, NSW, Australia](https://www.cmrijeansforgenes.org.au), clinical trials at [Singapore Clinical Research Institute, Singapore](https://www.scri.edu.sg), neuroscience research at [Memory, Ageing and Cognition Centre, National University of Singapore, Singapore](http://www.macc.sg/About-MACC-Healthy-Aging-Dementia-Prevention), dementia research at [Dementia Centre for Research Collaboration, The University of New South Wales, Australia](https://dementiaresearch.org.au). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I had completed my Honours and PhD in Statistics from 
+[Macquarie University, Australia](https://www.mq.edu.au), 
+    under the supervision of Associate Professor 
+    [Jun Ma]( https://researchers.mq.edu.au/en/persons/jun-ma ).
+My PhD research was about proportional hazard model estimation, under dependent censoring, using maximum penalized likelihood method. The proposed method was applied to analyze a dementia dataset.
+
+Please refer to my {{< staticref "uploads/Curriculum-Vitae-KX.pdf" "newtab" >}} CV {{< /staticref >}} for details of my education and work experience. 
+
+ Here is the link to my [Google Scholar citation page](https://scholar.google.com/citations?user=uxLxUrAAAAAJ).

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Xu</title>
+    <link>https://kenny-jing-xu.github.io/author/jing-xu/</link>
+      <atom:link href="https://kenny-jing-xu.github.io/author/jing-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jing Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 14:27:26 +0000</lastBuildDate>
+    <image>
+      <url>https://kenny-jing-xu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jing Xu</title>
+      <link>https://kenny-jing-xu.github.io/author/jing-xu/</link>
+    </image>
+    
+    <item>
+      <title>Micro-Randomized Trial with Flexible Design and Sample Size Considerations</title>
+      <link>https://kenny-jing-xu.github.io/publication/fleximrt/</link>
+      <pubDate>Thu, 17 Mar 2022 14:27:26 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/fleximrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daily Motivational Text-messages to Promote Physical Activity in University Students: Results from a Micro-Randomized Trial</title>
+      <link>https://kenny-jing-xu.github.io/publication/diamante-student/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/diamante-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMARTp: A SMART design for nonsurgical treatments of chronic periodontitis with spatially referenced and nonrandomly missing skewed outcomes</title>
+      <link>https://kenny-jing-xu.github.io/publication/smartp/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/smartp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proportional hazard model estimation under dependent censoring using copulas and penalized likelihood</title>
+      <link>https://kenny-jing-xu.github.io/publication/survivalmpldc/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/survivalmpldc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical investigation of the value of finalisation count information to loss reserving</title>
+      <link>https://kenny-jing-xu.github.io/publication/meyer-shi/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/meyer-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors of Institutionalization in Dementia: A three Year Longitudinal Study</title>
+      <link>https://kenny-jing-xu.github.io/publication/prime/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/prime/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

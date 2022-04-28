@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Jing Xu</title>
     <link>https://kenny-jing-xu.github.io/publication/</link>
       <atom:link href="https://kenny-jing-xu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Mar 2022 14:27:26 +0000</lastBuildDate>
     <image>
       <url>https://kenny-jing-xu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,55 +13,51 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://kenny-jing-xu.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://kenny-jing-xu.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Micro-Randomized Trial with Flexible Design and Sample Size Considerations</title>
+      <link>https://kenny-jing-xu.github.io/publication/fleximrt/</link>
+      <pubDate>Thu, 17 Mar 2022 14:27:26 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/fleximrt/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://kenny-jing-xu.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://kenny-jing-xu.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Daily Motivational Text-messages to Promote Physical Activity in University Students: Results from a Micro-Randomized Trial</title>
+      <link>https://kenny-jing-xu.github.io/publication/diamante-student/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/diamante-student/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://kenny-jing-xu.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://kenny-jing-xu.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>SMARTp: A SMART design for nonsurgical treatments of chronic periodontitis with spatially referenced and nonrandomly missing skewed outcomes</title>
+      <link>https://kenny-jing-xu.github.io/publication/smartp/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/smartp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proportional hazard model estimation under dependent censoring using copulas and penalized likelihood</title>
+      <link>https://kenny-jing-xu.github.io/publication/survivalmpldc/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/survivalmpldc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical investigation of the value of finalisation count information to loss reserving</title>
+      <link>https://kenny-jing-xu.github.io/publication/meyer-shi/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/meyer-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors of Institutionalization in Dementia: A three Year Longitudinal Study</title>
+      <link>https://kenny-jing-xu.github.io/publication/prime/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/prime/</guid>
+      <description></description>
     </item>
     
   </channel>

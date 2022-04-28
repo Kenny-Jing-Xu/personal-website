@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry Brodaty | Jing Xu</title>
+    <link>https://kenny-jing-xu.github.io/author/henry-brodaty/</link>
+      <atom:link href="https://kenny-jing-xu.github.io/author/henry-brodaty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henry Brodaty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kenny-jing-xu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Henry Brodaty</title>
+      <link>https://kenny-jing-xu.github.io/author/henry-brodaty/</link>
+    </image>
+    
+    <item>
+      <title>Proportional hazard model estimation under dependent censoring using copulas and penalized likelihood</title>
+      <link>https://kenny-jing-xu.github.io/publication/survivalmpldc/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/survivalmpldc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors of Institutionalization in Dementia: A three Year Longitudinal Study</title>
+      <link>https://kenny-jing-xu.github.io/publication/prime/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://kenny-jing-xu.github.io/publication/prime/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
